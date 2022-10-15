@@ -4,3 +4,4 @@ Facade is a structural design pattern that provides a simplified (but limited) i
 
 While Facade decreases the overall complexity of the application, it also helps to move unwanted dependencies to one place.
 
+[Reference](https://refactoring.guru/design-patterns/facade/java/example)
